@@ -1,2 +1,2 @@
 # upgraded-googles
-This is the readme file.
+Andrew added one line to evaluate the conflict. Jessica resolved the conflict.
